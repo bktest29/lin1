@@ -46,7 +46,7 @@ function initializeLiffOrDie(myLiffId) {
 function initializeLiff(myLiffId) {
     liff
         .init({
-            liffId: myLiffId
+            liffId: 1653396710-GWD5xZkW
         })
         .then(() => {
             // start to use LIFF's api
