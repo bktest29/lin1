@@ -23,7 +23,7 @@ Follow the below instructions to deploy your app using the Heroku button and Nod
 
 ### Deploy the app using 'Deploy to Heroku' button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/line/line-liff-v2-starter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bktest29/lin1/)
 
 1. Click **Deploy to Heroku** above.
 2. On the "Create New App" page in Heroku, fill in the required information.
@@ -89,10 +89,10 @@ Follow the below instructions to deploy your customized app using Heroku and Nod
     - [Node.js](https://nodejs.org/en/)
     - Items listed [here](#what-youll-need)
 
-2. Clone the [line-liff-starter](https://github.com/line/line-liff-v2-starter) GitHub repository.
+2. Clone the [line-liff-starter](https://github.com/bktest29/lin1/) GitHub repository.
 
     ```shell
-    git clone https://github.com/line/line-liff-v2-starter
+    git clone https://github.com/bktest29/lin1/
     ```
 3. `cd` into `line-liff-v2-starter` directory.
 
